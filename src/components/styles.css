@@ -1,0 +1,9 @@
+.home{
+   display: flex;
+}
+.users{
+    width: 20%;
+}
+.blogs{
+    width: 80%;
+}
