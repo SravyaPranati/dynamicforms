@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dynamicforms/static/css/main.fd339c31.chunk.css",
+    "main.js": "/dynamicforms/static/js/main.8c7b640f.chunk.js",
+    "main.js.map": "/dynamicforms/static/js/main.8c7b640f.chunk.js.map",
+    "runtime-main.js": "/dynamicforms/static/js/runtime-main.fe080381.js",
+    "runtime-main.js.map": "/dynamicforms/static/js/runtime-main.fe080381.js.map",
+    "static/js/2.3b75a878.chunk.js": "/dynamicforms/static/js/2.3b75a878.chunk.js",
+    "static/js/2.3b75a878.chunk.js.map": "/dynamicforms/static/js/2.3b75a878.chunk.js.map",
+    "index.html": "/dynamicforms/index.html",
+    "precache-manifest.a1fb9ae0d10f71f18126a1cb879f3108.js": "/dynamicforms/precache-manifest.a1fb9ae0d10f71f18126a1cb879f3108.js",
+    "service-worker.js": "/dynamicforms/service-worker.js",
+    "static/css/main.fd339c31.chunk.css.map": "/dynamicforms/static/css/main.fd339c31.chunk.css.map",
+    "static/js/2.3b75a878.chunk.js.LICENSE.txt": "/dynamicforms/static/js/2.3b75a878.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe080381.js",
+    "static/js/2.3b75a878.chunk.js",
+    "static/css/main.fd339c31.chunk.css",
+    "static/js/main.8c7b640f.chunk.js"
+  ]
+}
